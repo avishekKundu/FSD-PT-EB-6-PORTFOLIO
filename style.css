@@ -4,7 +4,7 @@
 }
 
 .navbar {
-    background-color: #F79327;
+    background-color: #F38181;
     height: 100px;
     display: flex;
     justify-content: space-between;
@@ -13,7 +13,7 @@
 
 .navbar img {
     box-shadow: 10px 10px 5px black;
-    padding: 5px;
+    padding: 4px;
     height: 70px;
 }
 
@@ -35,7 +35,7 @@ a {
 
 .about {
     height: 600px;
-    background-color: #540375;
+    background-color: #226B80;
 }
 
 .about h1 {
